@@ -1,0 +1,57 @@
+﻿  ProyectoDC.cpp
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(96): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: vea la declaración de '_sleep'
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(99): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: vea la declaración de '_sleep'
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(102): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: vea la declaración de '_sleep'
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(104): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: vea la declaración de '_sleep'
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(277): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: vea la declaración de 'getch'
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(294): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: vea la declaración de '_sleep'
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(296): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: vea la declaración de '_sleep'
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(302): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: vea la declaración de 'getch'
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(310): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: vea la declaración de 'getch'
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(329): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: vea la declaración de '_sleep'
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(331): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: vea la declaración de '_sleep'
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(349): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: vea la declaración de '_sleep'
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(351): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: vea la declaración de '_sleep'
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(356): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: vea la declaración de 'getch'
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(364): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: vea la declaración de 'getch'
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(383): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: vea la declaración de '_sleep'
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(385): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: vea la declaración de '_sleep'
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(393): warning C4101: 'y': variable local sin referencia
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(394): warning C4101: 'ficha': variable local sin referencia
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(393): warning C4101: 'x': variable local sin referencia
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(522): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: vea la declaración de 'getch'
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(531): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: vea la declaración de '_sleep'
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(533): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: vea la declaración de '_sleep'
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(539): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: vea la declaración de '_sleep'
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(211): warning C4715: 'mostrarGanador': no todas las rutas de acceso de control devuelven un valor
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(403): warning C4700: se utilizó la variable local 'yf' sin inicializar
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(403): warning C4700: se utilizó la variable local 'xf' sin inicializar
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(403): warning C4700: se utilizó la variable local 'ya' sin inicializar
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(403): warning C4700: se utilizó la variable local 'xa' sin inicializar
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(557): warning C4700: se utilizó la variable local 'i' sin inicializar
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(585): warning C4700: se utilizó la variable local 'i' sin inicializar
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(598): warning C4700: se utilizó la variable local 'i' sin inicializar
+c:\users\keiner\source\repos\proyectodc\proyectodc\proyectodc.cpp(610): warning C4700: se utilizó la variable local 'i' sin inicializar
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ProyectoDC.vcxproj -> C:\Users\KEINER\source\repos\ProyectoDC\Debug\ProyectoDC.exe
