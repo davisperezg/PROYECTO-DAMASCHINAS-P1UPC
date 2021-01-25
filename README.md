@@ -21,6 +21,7 @@ TRABAJO FINAL DAMAS CHINAS DESARROLLADO CON C++. UPC
 -Los movimientos son por coordenadas.
 <br/>
 -No se puede colocar en espacios en blanco. Está validado.
+<br/>
 <p align="center">
   <img src="https://i.ibb.co/4S41Ppt/EJEMPLO-JUEGO.png" title="Jugada">
 </p>
@@ -28,6 +29,7 @@ TRABAJO FINAL DAMAS CHINAS DESARROLLADO CON C++. UPC
 * EQUIPO GANADOR
 <br/>
 -El equipo ganador es quien pasa sus fichas primero al otro lado
+<br/>
 <p align="center">
   <img src="https://i.ibb.co/DfGFkFb/ganador-azul.png" title="Jugada">
 </p>
