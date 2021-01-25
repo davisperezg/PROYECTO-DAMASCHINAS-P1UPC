@@ -2,4 +2,4 @@
 TRABAJO FINAL DAMAS CHINAS DESARROLLADO CON C++. UPC
 
 
-https://ibb.co/6JFnQZh
+<img sr="https://ibb.co/6JFnQZh"/>
