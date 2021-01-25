@@ -17,13 +17,16 @@ TRABAJO FINAL DAMAS CHINAS DESARROLLADO CON C++. UPC
 </p>
 
 * PRIMERA JUGADA
+<br/>
 -Los movimientos son por coordenadas.
+<br/>
 -No se puede colocar en espacios en blanco. Está validado.
 <p align="center">
   <img src="https://i.ibb.co/4S41Ppt/EJEMPLO-JUEGO.png" title="Jugada">
 </p>
 
 * EQUIPO GANADOR
+<br/>
 -El equipo ganador es quien pasa sus fichas primero al otro lado
 <p align="center">
   <img src="https://i.ibb.co/DfGFkFb/ganador-azul.png" title="Jugada">
